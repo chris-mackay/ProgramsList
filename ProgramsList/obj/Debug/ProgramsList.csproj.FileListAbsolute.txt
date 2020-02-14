@@ -1,0 +1,5 @@
+C:\Programming\ProgramsList\ProgramsList\bin\Debug\ProgramsList.exe.config
+C:\Programming\ProgramsList\ProgramsList\bin\Debug\ProgramsList.exe
+C:\Programming\ProgramsList\ProgramsList\bin\Debug\ProgramsList.pdb
+C:\Programming\ProgramsList\ProgramsList\obj\Debug\ProgramsList.exe
+C:\Programming\ProgramsList\ProgramsList\obj\Debug\ProgramsList.pdb
